@@ -11,6 +11,6 @@ You will find:
 
 - Two text files with results of botometer bot analysis of the 72 accounts.
 
-- A 'jsonl' format json file containing 806 replies to this tweet, collected using the 'twarc' Python module. Unfortunately, even though there is currently 3.3k replies, the collector hit an error due to a tweet being deleted during the collection process. Someone else might be able to complete the job.
+- A 'jsonl' format json file containing over 3k replies to this tweet, collected using the 'twarc' Python module.
 
 - A Jupyter Notebook file with all the code for data collection and analysis.
